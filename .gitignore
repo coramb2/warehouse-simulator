@@ -1,0 +1,6 @@
+bin/
+out/
+*.class
+*.db
+logs/
+lib/
